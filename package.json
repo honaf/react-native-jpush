@@ -1,0 +1,24 @@
+{
+  "name": "react-native-jpush",
+  "version": "1.0.0",
+  "description": "react-native-jpush",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/honaf/react-native-jpush.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "jpush"
+  ],
+  "author": "honaf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/honaf/react-native-jpush/issues"
+  },
+  "homepage": "https://github.com/honaf/react-native-jpush#readme"
+}
